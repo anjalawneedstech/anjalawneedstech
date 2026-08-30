@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Anja
 
-<!--
-**anjalawneedstech/anjalawneedstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚖️ 💻 I'm a Canadian business lawyer  turned legal tech founder.
 
-Here are some ideas to get you started:
+- 👤 About me: Four years ago I pivoted my practice from practising law to building bespoke tech solutions for law firms. Since then my work has spanned the full range of the market, from small firms to AM Law 50 firms, designing and shipping the systems that sit underneath how legal work actually gets delivered.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently pivoting: I'm currently working on building the standard infrastructure for AI-native law firms. More to come on this!Leveraging my 4 years of consulting expertise as the foundation for this next step. 
+
+- 👯 I'm looking to collaborate with developers and AI engineers who want to build in a regulated industry and in the legal tech space. I'm also looking to connecting with researchers, academics and professionals interested in AI safety and ethics.
+
+- 💬 Ask me about legal innovation, law firm digital transformation, document automation, Docassemble, leveraging no-code and low-code tools, and legal services productization
+
+## ⚡ Law Spark: pre-built solutions for law firms
+
+[Law Spark](https://lawspark.co) is my consulting practice. Alongside custom builds, I package pre-built automation that firms can deploy without starting from scratch.
+
+| Solution | What it does |
+| --- | --- |
+| **Estate planning pack** | (https://lawspark.co) |
+| **InFiler** | Add-in that connects professional inboxes to practice management tools, so filing and context live where the work already happens. Currently in Microsoft AppSource review. |
+
+Firms can try a live demo environment at [app.lawspark.co](https://app.lawspark.co), a client-facing Docassemble instance I host and maintain.
+
+## 🛠️ Stack
+
+In consulting, I match the tooling to the firm rather than the other way around, mixing no-code, low-code, and code in the same build. A workflow might start as Softr, Airtable, and Zapier where speed and handover matter, and drop into Python where the logic gets too specific for a builder tool to hold.
+
+- **Code:** Python, SQL, REST APIs, Jinja2 and Mako templating, OOXML internals,
+- - **No-code and low-code:** Softr, Airtable, Zapier, Docassemble, Gavel, Avvoka
+
+I build cloud-hosted or on premise, depending on what a firm's confidentiality and IT constraints require.
+
+## 📬 Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Law Spark](https://lawspark.co) · [Email](mailto:anja@lawspark.co)
