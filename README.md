@@ -10,16 +10,15 @@
 
 - 💬 Ask me about legal innovation, law firm digital transformation, document automation, Docassemble, leveraging no-code and low-code tools, and legal services productization
 
-## ⚡ Law Spark: pre-built solutions for law firms
+[Law Spark](https://lawspark.co) is my consulting practice, where I build custom solutions for law firms.
 
-[Law Spark](https://lawspark.co) is my consulting practice. Alongside custom builds, I package pre-built automation that firms can deploy without starting from scratch.
+## ⚡ Existing solutions
 
+ Alongside custom builds, I also built some commercialized standard solutions. These are standalone products that require their own subscription.
 | Solution | What it does |
 | --- | --- |
-| **Estate planning pack** | (https://lawspark.co) |
-| **InFiler** | Add-in that connects professional inboxes to practice management tools, so filing and context live where the work already happens. Currently in Microsoft AppSource review. |
-
-Firms can try a live demo environment at [app.lawspark.co](https://app.lawspark.co), a client-facing Docassemble instance I host and maintain.
+| **([Cloud Estate Plan](https://www.cloudestateplan.com/))  (Launched Aug 2025) ** | Built a full Estate planning drafting engine (deterministic solution, from standardized template). |
+| **[InFiler](https://infiler.io/)** | Outlook Add-in that connects professional inboxes to practice management tools, so filing and context live where the work already happens. |
 
 ## 🛠️ Stack
 
