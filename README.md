@@ -17,8 +17,8 @@
  Alongside custom builds, I also built some commercialized standard solutions. These are standalone products that require their own subscription.
 | Solution | What it does |
 | --- | --- |
-| **([Cloud Estate Plan](https://www.cloudestateplan.com/))  (Launched Aug 2025) ** | Built a full Estate planning drafting engine (deterministic solution, from standardized template). |
-| **[InFiler](https://infiler.io/)** | Outlook Add-in that connects professional inboxes to practice management tools, so filing and context live where the work already happens. |
+| **([Cloud Estate Plan](https://www.cloudestateplan.com/)) ** | Built a full Estate planning drafting engine (deterministic solution, from standardized template). Launched Aug 2025 |
+| **[InFiler](https://infiler.io/)** | Outlook Add-in that connects professional inboxes to practice management tools, so filing and context live where the work already happens. Launched Aug 2026 |
 
 ## 🛠️ Stack
 
