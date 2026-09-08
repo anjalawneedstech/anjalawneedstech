@@ -4,7 +4,7 @@
 
 - 👤 About me: Four years ago I pivoted my practice from practising law to building bespoke tech solutions for law firms. Since then my work has spanned the full range of the market, from small firms to AM Law 50 firms, designing and shipping the systems that sit underneath how legal work actually gets delivered.
 
-- 🔭 Currently pivoting: I'm currently working on building the standard infrastructure for AI-native law firms. More to come on this!Leveraging my 4 years of consulting expertise as the foundation for this next step. 
+- 🔭 Currently pivoting: I'm currently working on building the standard infrastructure for AI-native law firms. More to come on this! Leveraging my 4 years of consulting expertise as the foundation for this next step. 
 
 - 👯 I'm looking to collaborate with developers and AI engineers who want to build in a regulated industry and in the legal tech space. I'm also looking to connecting with researchers, academics and professionals interested in AI safety and ethics.
 
@@ -17,7 +17,7 @@
  Alongside custom builds, I also built some commercialized standard solutions. These are standalone products that require their own subscription.
 | Solution | What it does |
 | --- | --- |
-| **([Cloud Estate Plan](https://www.cloudestateplan.com/))** | Built a full Estate planning drafting engine (deterministic solution, from standardized template). Launched Aug 2025 |
+| **[Cloud Estate Plan](https://www.cloudestateplan.com/)** | Built a full Estate planning drafting engine (deterministic solution, from standardized template). Launched Aug 2025 |
 | **[InFiler](https://infiler.io/)** | Outlook Add-in that connects professional inboxes to practice management tools, so filing and context live where the work already happens. Launched Aug 2026 |
 
 ## 🛠️ Stack
