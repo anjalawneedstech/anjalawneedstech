@@ -24,8 +24,10 @@
 
 In consulting, I match the tooling to the firm rather than the other way around, mixing no-code, low-code, and code in the same build. A workflow might start as Softr, Airtable, and Zapier where speed and handover matter, and drop into Python where the logic gets too specific for a builder tool to hold.
 
-- **Code:** Python, SQL, REST APIs, Jinja2 and Mako templating, OOXML internals,
-- - **No-code and low-code:** Softr, Airtable, Zapier, Docassemble, Gavel, Avvoka
+- Python, SQL, REST APIs, Jinja2 and Mako templating, OOXML internals,
+- [Docassemble](https://docassemble.org/) expert
+
+Also love leveraging no-code tools whenever possible to build more affordable solutions for clients: Softr, Airtable, Zapier, Gavel, Avvoka
 
 I build cloud-hosted or on premise, depending on what a firm's confidentiality and IT constraints require.
 
